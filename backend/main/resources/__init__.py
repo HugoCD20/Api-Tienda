@@ -1,0 +1,10 @@
+from .Clientes import Clientes as ClientesResources
+from .Clientes import Cliente as ClienteResources
+from .Usuarios import Usuarios as UsuariosResources
+from .Usuarios import Usuario as UsuarioResources
+from .Productos import Producto as ProductoResources
+from .Productos import Productos as ProductosResources
+from .direcciones import direccion as direccionResources
+from .direcciones import direcciones as direccionesResources
+from .Carrito import carrito as carritoResources
+from .Carrito import carritos as carritosResources

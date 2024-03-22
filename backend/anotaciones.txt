@@ -1,0 +1,14 @@
+#Tareas a realizar
+
+##Modificar los models
+1. Model de usuario (realizado)
+2. Model de Producto (realizado)
+3. Model de carrito  (realizado)
+4. Model de direcciones (realizado)
+
+##Modificar los recursos
+1. Clientes
+2. direcciones (realizado)
+3. carrito (realizado)//aqui falta hacer la validacion de permisos
+4. productos (realizado)
+5. Usuario (realizado)
